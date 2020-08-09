@@ -18,10 +18,4 @@ The stack used is 100% javascript/typescript:
 
 ## Mobile
 
-<img src="https://user-images.githubusercontent.com/4256471/89735405-ba7d0280-da38-11ea-89eb-d3ef89cebee3.png" width="24%">
-
-<img src="https://user-images.githubusercontent.com/4256471/89735407-bcdf5c80-da38-11ea-8ed8-1299366b1835.png" width="24%">
-
-<img src="https://user-images.githubusercontent.com/4256471/89735409-bf41b680-da38-11ea-855a-7bd1ec1e5caa.png" width="24%">
-
-<img src="https://user-images.githubusercontent.com/4256471/89735414-c10b7a00-da38-11ea-934e-de9e25f6e300.png" width="24%">
+<img src="https://user-images.githubusercontent.com/4256471/89735405-ba7d0280-da38-11ea-89eb-d3ef89cebee3.png" width="24%"> <img src="https://user-images.githubusercontent.com/4256471/89735407-bcdf5c80-da38-11ea-8ed8-1299366b1835.png" width="24%"> <img src="https://user-images.githubusercontent.com/4256471/89735409-bf41b680-da38-11ea-855a-7bd1ec1e5caa.png" width="24%"> <img src="https://user-images.githubusercontent.com/4256471/89735414-c10b7a00-da38-11ea-934e-de9e25f6e300.png" width="24%">
